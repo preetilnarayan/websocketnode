@@ -6,7 +6,8 @@
     "express": "^4.17.1"
   },
   "scripts": {
-    "test": "echo \"Eoor: No test specified \" && exit1"
+    "test": "echo \"Eoor: No test specified \" && exit1",
+    "start":"index.js"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
