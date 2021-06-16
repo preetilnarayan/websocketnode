@@ -6,5 +6,7 @@
   "dependencies": {
     "express": "^4.17.1"
   },
-  "scripts": {}
+  "scripts": {
+    "test":"echo \"Eoor: No test specified \" && exit1"
+  }
 }
