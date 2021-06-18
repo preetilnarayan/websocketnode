@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
   },
   "scripts": {
     "test": "echo \"Eoor: No test specified \" && exit1",
